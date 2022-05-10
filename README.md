@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name is Matilda and I am a Frontend Developer student at Hyper Island. 
 
-<!--
-**TildaYngman/TildaYngman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studing Front End development at hyper Island
+- 🌱 I’m currently learning Javascript, React, Node.js, Html, CSS/SCSS, mongoDB, Building REST APIs, Firebase, TDD, Figma
+- 💬 Ask me about coffee and boardgames
+- ⚡ Fun fact: I like to watch horror movies alone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello World!
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matilda-yngman/)
+[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/TildaYngman) 
+
+Last Edited on: 10/05/2022
