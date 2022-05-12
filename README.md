@@ -6,8 +6,6 @@
 - 💬 Ask me about coffee and boardgames
 - ⚡ Fun fact: I like to watch horror movies alone.
 
-## Hello World!
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matilda-yngman/)
 
 Last Edited on: 10/05/2022
