@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Matilda and I am a Frontend Developer. 
+### Hi there 👋 My name is Matilda and I am a developer. 
 
 
 - 🔭 I’m a Front End developer who loves to learn new technologies.
